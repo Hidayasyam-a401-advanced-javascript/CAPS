@@ -17,3 +17,24 @@
 
 ## here We have UML 
 ![image](../asset/class16.jpeg)
+
+
+
+
+### Class-17 
+
+### CAPS Phase 2: we’ll be spreading the functionality of our CAPS application into multiple applications, so that users on different computers and connections can continue to communicate in real time as packages are prepared, picked up, and delivered.
+
+
+- caps.js - Main Hub Application
+- vendor.js - Vendor Module
+- driver.js - Drivers Module
+
+
+### we used this packeges
+- jest
+- faker
+- dotenv
+
+## here We have UML 
+![image](../asset/class17.jpeg)
